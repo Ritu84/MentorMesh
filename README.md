@@ -4,3 +4,8 @@ Welcome to MentorMesh – a user-friendly platform designed to seamlessly connec
 Dive into the code that powers MentorMesh and join us in shaping the future of academic mentorship.🤗✨✨
 
 Let's collaborate and learn more.
+
+Technologies:
+HTML, CSS, JavaScript
+WebRtc
+Socket.io
