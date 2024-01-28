@@ -5,7 +5,10 @@ Dive into the code that powers MentorMesh and join us in shaping the future of a
 
 Let's collaborate and learn more.
 
-Technologies:
-HTML, CSS, JavaScript
-WebRtc
-Socket.io
+Technologies:<br>
+HTML, CSS, JavaScript<br>
+ReactJs<br>
+NodeJs<br>
+WebRtc<br>
+Socket.io<br>
+
